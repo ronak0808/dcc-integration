@@ -1,0 +1,30 @@
+Starting server...
+❌ Error: Server failed to start.
+Python path configuration:
+  PYTHONHOME = 'C:\Users\rouna\AppData\Local\Temp\_MEI301362'
+  PYTHONPATH = (not set)
+  program name = 'C:\Users\rouna\OneDrive\Desktop\dcc-integration\dist\ui.exe'
+  isolated = 1
+  environment = 0
+  user site = 0
+  import site = 0
+  sys._base_executable = 'C:\\Users\\rouna\\OneDrive\\Desktop\\dcc-integration\\dist\\ui.exe'
+  sys.base_prefix = 'C:\\Users\\rouna\\AppData\\Local\\Temp\\_MEI301362'
+  sys.base_exec_prefix = 'C:\\Users\\rouna\\AppData\\Local\\Temp\\_MEI301362'
+  sys.platlibdir = 'lib'
+  sys.executable = 'C:\\Users\\rouna\\OneDrive\\Desktop\\dcc-integration\\dist\\ui.exe'
+  sys.prefix = 'C:\\Users\\rouna\\AppData\\Local\\Temp\\_MEI301362'
+  sys.exec_prefix = 'C:\\Users\\rouna\\AppData\\Local\\Temp\\_MEI301362'
+  sys.path = [
+    'C:\\Users\\rouna\\AppData\\Local\\Temp\\_MEI301362\\base_library.zip',
+    'C:\\Users\\rouna\\AppData\\Local\\Temp\\_MEI301362\\lib-dynload',
+    'C:\\Users\\rouna\\AppData\\Local\\Temp\\_MEI301362',
+  ]
+[PYI-26636:ERROR] Failed to start embedded python interpreter!
+Fatal Python error: init_fs_encoding: failed to get the Python codec of the filesystem encoding
+Python runtime state: core initialized
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00008f18 (most recent call first):
+  <no Python frame>
+
