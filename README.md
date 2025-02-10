@@ -38,17 +38,18 @@ python -m venv venv
 venv\Scripts\activate
 # macOS/Linux
 source venv/bin/activate
-3️⃣ Install Dependencies
+3️⃣Install Dependencies
 pip install -r requirements.txt
 
+
 🚦 Running the Project
-1️⃣ Start the Backend Server
+1️.Start the Backend Server
 
 python server.py
 This will start the Flask/FastAPI server at:
 🔗 http://127.0.0.1:5000/
 
-2️⃣ Launch the GUI Application
+2️.Launch the GUI Application
 
 python ui.py
 
