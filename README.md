@@ -45,6 +45,8 @@ pip install -r requirements.txt
 
 
 🚦 Running the Project
+
+
 1️.Start the Backend Server
 
 python server.py
